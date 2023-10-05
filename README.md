@@ -26,3 +26,4 @@ proyecto
 Tinkercad
 Circuit design PARCIAL PARTE UNO CHIAPPA CARTOLANO SZNEC CARMONA | ...
 Circuit design PARCIAL PARTE UNO CHIAPPA CARTOLANO SZNEC CARMONA created by Facundo Chiappa with Tinkercad
+
